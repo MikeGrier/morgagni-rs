@@ -1,5 +1,5 @@
 [package]
-name = "dr-house-ttd-decoder"
+name = "morgagni"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true

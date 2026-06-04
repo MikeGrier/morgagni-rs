@@ -3,7 +3,7 @@
 [workspace]
 resolver = "2"
 members = [
-    "crates/dr-house-ttd-decoder",
+    "crates/morgagni",
 ]
 
 [workspace.package]
