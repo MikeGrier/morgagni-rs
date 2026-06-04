@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "dr-house-ttd-decoder"
+name = "morgagni"
 version = "0.1.0"

@@ -1,4 +1,4 @@
-//! dr-house-ttd-decoder
+//! morgagni
 //!
 //! Provides Rust bindings and decoding utilities for the Windows Time Travel
 //! Debugger (TTD) replay API.  The native TTD DLLs are downloaded at build
